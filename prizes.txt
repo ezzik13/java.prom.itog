@@ -1,0 +1,4 @@
+
+{"name class":"Soft_toy","name toy":"Rabbit","id":887632895}
+{"name class":"Soft_toy","name toy":"Cheburashka","id":570024713}
+{"name class":"Cars","name toy":"Lada","id":853862007}
